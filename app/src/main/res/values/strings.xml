@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NguyenVanCuong_thuchanh2_ bai2</string>
+    <string-array name="thanhpho">
+        <item>Hung Yen</item>
+        <item>Ha noi</item>
+    </string-array>
+</resources>
